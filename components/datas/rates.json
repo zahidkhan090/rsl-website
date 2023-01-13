@@ -1,0 +1,46 @@
+[
+    {
+        "id":"1",
+        "title":"Business Cars (Lexus ES350)",
+        "snow":"10",
+        "slater":"10",
+        "moving":"3.0",
+        "waiting":"60",
+        "mnow":"20",
+        "mlater":"20",
+        "airportCharge":"30"
+    },
+    {
+        "id":"2",
+        "title":"Business SUVs / Minivans (Toyota Previa/ Toyota Alphard)",
+        "snow":"10",
+        "slater":"10",
+        "moving":"3.1",
+        "waiting":"60",
+        "mnow":"25",
+        "mlater":"25",
+        "airportCharge":"30"
+    },
+    {
+        "id":"3",
+        "title":"1st Class SUV (Escalade, Chev. Suburban, GMC Denali, Chev. Tahoe &amp; Toyota Prado)",
+        "snow":"15",
+        "slater":"15",
+        "moving":"5",
+        "waiting":"100",
+        "mnow":"50",
+        "mlater":"50",
+        "airportCharge":"40"
+    },
+    {
+        "id":"4",
+        "title":"1st Class Sedan Cars (BMW, Mercedes S-Class &amp; E-Class)",
+        "snow":"15",
+        "slater":"15",
+        "moving":"4.5",
+        "waiting":"90",
+        "mnow":"45",
+        "mlater":"45",
+        "airportCharge":"40"
+    }
+]
